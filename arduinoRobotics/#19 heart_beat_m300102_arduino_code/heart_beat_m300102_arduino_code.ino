@@ -80,4 +80,6 @@ void loop()
     Serial.print(" No finger?");
 
   Serial.println();
+  
+  delay(1000);
 }
