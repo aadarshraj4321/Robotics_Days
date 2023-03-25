@@ -1,3 +1,4 @@
+// define pi.
 int potPin = A1;
 int ledPin = 6;
 int potVal;
@@ -15,7 +16,7 @@ void setup()
 
 void loop()
 {
-  potVal = analogRead(potPin);
+  potVal = analogRead(potPinp.  
   ledVal = (255.0 / 1023.) * potVal;
   analogWrite(ledPin, ledVal);
   Serial.println(ledVal);
