@@ -4,8 +4,8 @@ int ledRed = 8;
 int ledGreen = 9;
 int ledBlue = 10;
 
-int dig = 100;
-int duh = 500;
+int dig = 120;
+int duh = 520;
 
 int longDelay = 1000;
 
