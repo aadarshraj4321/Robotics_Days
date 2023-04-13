@@ -2,6 +2,7 @@
 int readAnalog;
 int V2 = 0;
 int analogPin = 3;
+// how much delay you want 
 int delayTime = 500;
 
 
