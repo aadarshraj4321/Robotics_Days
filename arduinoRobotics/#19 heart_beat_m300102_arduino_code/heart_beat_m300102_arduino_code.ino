@@ -1,5 +1,5 @@
 
-
+/*
   Hardware Connections (Breakoutboard to Arduino):
   -5V = 5V (3.3V is allowed)
   -GND = GND
