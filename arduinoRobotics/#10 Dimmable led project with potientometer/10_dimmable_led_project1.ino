@@ -5,6 +5,7 @@ int potVal;
 float ledVal;
 
 
+// main function
 void setup()
 {
   pinMode(potPin, INPUT);
