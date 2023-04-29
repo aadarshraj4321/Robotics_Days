@@ -14,6 +14,7 @@ void setup()
 
 void loop()
 {
+	// analog read
 	readAnalog = analogRead(analogPin);
   	V2 = (5./1023.) * readAnalog;
 	// print data in plotter
